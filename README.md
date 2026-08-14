@@ -256,5 +256,7 @@ This project was developed as an academic **Travel Planner** application to demo
 
 Developed as a group academic project.
 
+SEREVER RUNNING AT:- http://localhost:5000
+
 
 
