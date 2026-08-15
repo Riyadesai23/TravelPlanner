@@ -4,9 +4,9 @@ A web-based **Travel Planner** application that helps users manage trips, bookin
 
 The project is built using **HTML, CSS, JavaScript, Node.js, Express.js, MongoDB, and Mongoose**.
 
-## 📌 Features
+📌 Features
 
-### 👤 User Management & Authentication
+ 👤 User Management & Authentication
 
 * User Registration
 * User Login
@@ -16,7 +16,7 @@ The project is built using **HTML, CSS, JavaScript, Node.js, Express.js, MongoDB
 * User data stored in MongoDB
 * Passwords stored using secure hashing
 
-### ✈️ Trip Management
+✈️ Trip Management
 
 * Add new trips
 * View trips
@@ -30,7 +30,7 @@ The project is built using **HTML, CSS, JavaScript, Node.js, Express.js, MongoDB
   * Ongoing
   * Completed
 
-### 🏨 Booking & Dashboard
+ 🏨 Booking & Dashboard
 
 * Hotel booking demo
 * Transport booking demo
@@ -43,7 +43,7 @@ The project is built using **HTML, CSS, JavaScript, Node.js, Express.js, MongoDB
 * Reports and summary
 * Hotel and transport booking statistics
 
-## 🛠️ Technologies Used
+ 🛠️ Technologies Used
 
 | Technology    | Purpose                        |
 | ------------- | ------------------------------ |
@@ -58,7 +58,7 @@ The project is built using **HTML, CSS, JavaScript, Node.js, Express.js, MongoDB
 | dotenv        | Environment variables          |
 | CORS          | Frontend-backend communication |
 
-## 📁 Project Structure
+ 📁 Project Structure
 
 ```text
 TravelPlanner/
