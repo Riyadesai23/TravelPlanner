@@ -90,6 +90,20 @@ function displayTrips(trips) {
 
 tripForm.addEventListener("submit", async function (event) {
   event.preventDefault();
+  if (endDate.value < startDate.value) {
+alert("End date cannot be before the start date.");
+return;
+}
+
+if (Number(budget.value) < 0) {
+alert("Budget cannot be negative.");
+return;
+}
+
+if (Number(travelers.value) < 1) {
+alert("Number of travelers must be at least 1.");
+return;
+}
 
   const tripData = {
     tripName: tripName.value.trim(),
