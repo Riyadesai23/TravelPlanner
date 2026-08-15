@@ -1,4 +1,4 @@
-# 🌍 Travel Planner
+🌍 Travel Planner
 
 A web-based **Travel Planner** application that helps users manage trips, bookings, profiles, and travel-related information in one place.
 
@@ -203,9 +203,9 @@ GET    /api/bookings/dashboard/:userId
 GET    /api/bookings/reports/:userId
 ```
 
-## 👥 Project Modules
+ 👥 Project Modules
 
-### Member 1 AASTHA SHARMA:— User Management & Authentication
+ Member 1 AASTHA SHARMA:— User Management & Authentication
 
 Responsible for:
 
@@ -215,11 +215,11 @@ Responsible for:
 * Change Password
 * User data management in MongoDB
 
-### Member 2 RIYA DESAI: — Trip Management
+Member 2 RIYA DESAI: — Trip Management
 
 Responsible for the assigned trip-management functionality.
 
-### Member 3 KOMAL PUROHIT: — Booking & Dashboard
+Member 3 KOMAL PUROHIT: — Booking & Dashboard
 
 Responsible for:
 
@@ -229,13 +229,13 @@ Responsible for:
 * Search & Filter Trips
 * Reports & Summary
 
-## 🔒 Security
+🔒 Security
 
 * Passwords are hashed using `bcryptjs`.
 * MongoDB credentials are stored in environment variables.
 * Sensitive configuration files should not be committed to GitHub.
 
-## 🚀 Future Enhancements
+ 🚀 Future Enhancements
 
 * Real hotel and transport APIs
 * Online payment integration
@@ -246,11 +246,11 @@ Responsible for:
 * Responsive mobile interface
 * Deployment to a cloud platform
 
-## 🎓 Project Purpose
+🎓 Project Purpose
 
 This project was developed as an academic **Travel Planner** application to demonstrate frontend development, backend API development, MongoDB database integration, authentication, booking management, filtering, dashboards, and reporting.
 
-## 👩‍💻 Author
+ 👩‍💻 Author
 
 **Travel Planner Project**
 
