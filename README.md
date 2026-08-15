@@ -205,7 +205,7 @@ GET    /api/bookings/reports/:userId
 
 ## 👥 Project Modules
 
-### Member 1 — User Management & Authentication
+### Member 1 AASTHA SHARMA:— User Management & Authentication
 
 Responsible for:
 
@@ -215,11 +215,11 @@ Responsible for:
 * Change Password
 * User data management in MongoDB
 
-### Member 2 — Trip Management
+### Member 2 RIYA DESAI: — Trip Management
 
 Responsible for the assigned trip-management functionality.
 
-### Member 3 — Booking & Dashboard
+### Member 3 KOMAL PUROHIT: — Booking & Dashboard
 
 Responsible for:
 
